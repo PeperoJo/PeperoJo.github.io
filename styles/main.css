@@ -127,15 +127,35 @@ body {}
   position: relative;
   width: 100%;
   height: 475px;
-  background-color: #f7f7f7;
+  background-color: #fafafa;
   border-radius: 10px;
-  overflow: hidden;
-  transition: 0.3s;
+  /* overflow: hidden; */
+  /* transition: 0.3s; */
 }
 
-.project-container:hover {
+/* .project-container:hover {
   cursor: pointer;
   box-shadow: 0 4px 17px 0 rgb(233 233 233 / 50);
+} */
+
+.project-container:before {
+  content: "";
+  z-index: -999;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  /* background: linear-gradient(to top left, #003973, #e5e5be); */
+  /* background: linear-gradient(to top left, #0F2027, #2C5364); */
+  background: linear-gradient(to top left, #aa4b6b, #6b6b83, #3b8d99);
+  transform: translateY(7px) scale(0.95);
+  filter: blur(15px);
+  opacity: 0;
+  transition: opacity 0.6s;
+}
+.project-container:hover:before {
+  opacity: 0.7;
 }
 
 .project-title {

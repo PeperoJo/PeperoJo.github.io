@@ -236,3 +236,27 @@ body {}
 .proj-text-dark0 {
   color: #404040;
 }
+
+
+/* ABOUT ME */
+.about-splash {
+  background-color: #303030;
+  padding-top: 15px;
+  padding-bottom: 70px;
+}
+#aboutme {
+  /* height: 400px; */
+  /* background-color: red; */
+
+}
+
+#aboutme .project-section {
+  color: #ffffff;
+}
+
+.about-info {
+  background-color: #252525;
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+}

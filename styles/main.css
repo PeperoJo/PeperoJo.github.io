@@ -124,6 +124,7 @@ body {}
 }
 
 .project-container {
+  cursor: pointer;
   position: relative;
   width: 100%;
   height: 475px;
@@ -165,7 +166,7 @@ body {}
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   /* font-weight: 300; */
-  font-size: 16px;
+  font-size: 15px;
   text-transform: uppercase;
 }
 
@@ -240,23 +241,45 @@ body {}
 
 /* ABOUT ME */
 .about-splash {
-  background-color: #303030;
+  /* background-color: #303030; */
+  /* background-color: #c7cfd1; */
+  background-image: linear-gradient(135deg, #fdfbfb, #ebedee);
+
   padding-top: 15px;
   padding-bottom: 70px;
 }
-#aboutme {
+#about {
   /* height: 400px; */
   /* background-color: red; */
 
 }
 
-#aboutme .project-section {
+/* #about .project-section {
   color: #ffffff;
+} */
+
+.about-section {
+  /* background-color: #252525; */
+  background-color: #ffffff;
+
+  width: 100%;
+  border-radius: 10px;
+
+  box-shadow: 0 4px 17px 0 rgb(233 233 233 / 50);
+
 }
 
-.about-info {
-  background-color: #252525;
-  width: 100%;
-  height: 300px;
-  border-radius: 10px;
+.about-detail {
+  height: 500px;
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.img-rounded {
+  border-radius: 4px !important;
+
 }

@@ -366,3 +366,39 @@ body {}
 .about-list:not(:last-child) {
   margin-bottom: 10px;
 }
+
+.about-name {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 30px;
+  font-weight: 600;
+  font-style: italic;
+  color: #4C4C4A;
+  /* text-align: center; */
+  padding-left: 25px;
+}
+
+.about-name-kr {
+  font-family: 'Gowun Batang', serif;
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.about-name-info {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: #4C4C4A;
+    /* text-align: center; */
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.about-name-dictionary {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.about-name-definition {
+  padding-top: 15px;
+}

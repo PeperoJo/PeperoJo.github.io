@@ -361,3 +361,14 @@ body {}
     cursor: pointer;
     box-sizing: border-box;
 }
+
+.about-list {
+  display: block;
+  background-color: #fafafa;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.about-list:not(:last-child) {
+  margin-bottom: 10px;
+}

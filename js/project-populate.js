@@ -1,88 +1,19 @@
-var data = [{
-    "show": true,
+var URL = "https://josephhan.io/js/project-data.json";
 
-    "projectTitle": "flagship project testing",
+// https://stackoverflow.com/questions/31763022/how-do-you-get-responsetext-from-jquery-getjson-method-in-javascript
+var jsonData;
+var jsonCall = $.getJSON(URL,function(){
+   jsonData = JSON.parse(jsonCall.responseText); //must be done here because it is asynchronous
+   // console.log("within call:");
+   console.log(jsonCall);
+   console.log(jsonData.projects);
+   populate(jsonData.projects)
+  });
+//doesn't work here
+// console.log("after call:");
+// console.log(jsonData);
 
-    "projectDescription": "This is created from JS",
 
-    "projectTags": "Web Development | Testing | Tags",
-
-    "projectImg": {
-      "src": "img/projects/random.png",
-      "height": "50%",
-    },
-
-    "projectLink": "https://google.com",
-
-    "projectContainersize": "12",
-
-    "projectMiscClasses": ""
-  },
-
-  {
-    "show": true,
-
-    "projectTitle": "Secondary Project A",
-
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-
-    "projectTags": "UI/UX Design | Mobile App",
-
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://google.com",
-
-    "projectContainersize": "6",
-
-    "projectMiscClasses": ""
-  },
-
-  {
-    "show": true,
-
-    "projectTitle": "Secondary Project B",
-
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-
-    "projectTags": "UI/UX Design | Mobile App",
-
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://facebook.com",
-
-    "projectContainersize": "6",
-
-    "projectMiscClasses": ""
-  },
-
-  {
-    "show": false,
-
-    "projectTitle": "Mini 1",
-
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-
-    "projectTags": "UI/UX Design | Mobile App",
-
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://facebook.com",
-
-    "projectContainersize": "4",
-
-    "projectMiscClasses": ""
-  },
-
-];
 
 
 function projectContainer(block) {
@@ -111,7 +42,7 @@ function projectContainer(block) {
     `;
 }
 
-function populate() {
+function populate(data) {
   for (i = 0; i < data.length; i++) {
     var project00 = new projectContainer(data[i]);
     if (project00.info.show) {
@@ -119,29 +50,3 @@ function populate() {
     }
   }
 }
-populate();
-
-// var ajaxJSON;
-// $.getJSON("https://josephhan.io/js/project-data.json", function(ajaxJSON){
-//   // console.log( "JSON Data: " + json[0].projectTitle );
-//   console.log( "JSON Data: " + ajaxJSON);
-//
-// });
-
-
-
-
-// fetch('https://josephhan.io/js/project-data-oneline.json')
-//   .then(res => res.json()) // the .json() method parses the JSON response into a JS object literal
-//   .then(data => console.log(data));
-
-var jsonCall = $.getJSON("https://josephhan.io/js/project-data-oneline.json",function(){
-   var jsonData = JSON.parse(jsonCall.responseText);
-   console.log(jsonData);
-  });
-console.log(jsonCall);
-console.log(jsonCall.responseText);
-
-// var URL = "https://josephhan.io/js/project-data.json";
-// var jsonCall = $.getJSON(URL);
-// var jsonData = jsonCall.responseText;

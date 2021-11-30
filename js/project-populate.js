@@ -1,88 +1,17 @@
-var data = [{
-    "show": true,
 
-    "projectTitle": "flagship project testing",
 
-    "projectDescription": "This is created from JS",
+var URL = "https://josephhan.io/js/project-data.json";
+// https://stackoverflow.com/questions/31763022/how-do-you-get-responsetext-from-jquery-getjson-method-in-javascript
+// get JSON from URL
+// var jsonCall = $.getJSON(URL,function(){
+//    var jsonData = JSON.parse(jsonCall.responseText);
+//   });
+var jsonCall = $.getJSON(URL,function(result){
+   console.log(result);
+   $('#projects').append(result);
+  });
 
-    "projectTags": "Web Development | Testing | Tags",
 
-    "projectImg": {
-      "src": "img/projects/random.png",
-      "height": "50%",
-    },
-
-    "projectLink": "https://google.com",
-
-    "projectContainersize": "12",
-
-    "projectMiscClasses": ""
-  },
-
-  {
-    "show": true,
-
-    "projectTitle": "Secondary Project A",
-
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-
-    "projectTags": "UI/UX Design | Mobile App",
-
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://google.com",
-
-    "projectContainersize": "6",
-
-    "projectMiscClasses": ""
-  },
-
-  {
-    "show": true,
-
-    "projectTitle": "Secondary Project B",
-
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-
-    "projectTags": "UI/UX Design | Mobile App",
-
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://facebook.com",
-
-    "projectContainersize": "6",
-
-    "projectMiscClasses": ""
-  },
-
-  {
-    "show": false,
-
-    "projectTitle": "Mini 1",
-
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-
-    "projectTags": "UI/UX Design | Mobile App",
-
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://facebook.com",
-
-    "projectContainersize": "4",
-
-    "projectMiscClasses": ""
-  },
-
-];
 
 
 function projectContainer(block) {
@@ -111,7 +40,7 @@ function projectContainer(block) {
     `;
 }
 
-function populate() {
+function populate(data) {
   for (i = 0; i < data.length; i++) {
     var project00 = new projectContainer(data[i]);
     if (project00.info.show) {
@@ -119,17 +48,4 @@ function populate() {
     }
   }
 }
-populate();
-
-// var ajaxJSON;
-// $.getJSON("https://josephhan.io/js/project-data.json", function(ajaxJSON){
-//   // console.log( "JSON Data: " + json[0].projectTitle );
-//   console.log( "JSON Data: " + ajaxJSON);
-//
-// });
-
-$.getJSON("https://josephhan.io/js/project-data.json", function(data2) {
-});
-console.log("hello my data: ");
-console.log(data2);
-console.log("---------------");
+// populate();

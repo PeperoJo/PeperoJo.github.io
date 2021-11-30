@@ -131,7 +131,7 @@ populate();
 
 
 
-fetch('https://josephhan.io/js/project-data.json')
+fetch('https://josephhan.io/js/project-data-oneline.json')
   .then(res => res.json()) // the .json() method parses the JSON response into a JS object literal
   .then(data => console.log(data));
 

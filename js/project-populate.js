@@ -111,7 +111,7 @@ function projectContainer(block) {
     `;
 }
 
-function populate(){
+function populate() {
   for (i = 0; i < data.length; i++) {
     var project00 = new projectContainer(data[i]);
     if (project00.info.show) {
@@ -121,9 +121,15 @@ function populate(){
 }
 populate();
 
-var ajaxJSON;
-$.getJSON("https://josephhan.io/js/project-data.json", function(ajaxJSON){
-  // console.log( "JSON Data: " + json[0].projectTitle );
-  console.log( "JSON Data: " + ajaxJSON);
+// var ajaxJSON;
+// $.getJSON("https://josephhan.io/js/project-data.json", function(ajaxJSON){
+//   // console.log( "JSON Data: " + json[0].projectTitle );
+//   console.log( "JSON Data: " + ajaxJSON);
+//
+// });
 
+$.getJSON("https://josephhan.io/js/project-data.json", function(data2) {
 });
+console.log("hello my data: ");
+console.log(data2);
+console.log("---------------");

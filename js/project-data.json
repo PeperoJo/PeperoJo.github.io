@@ -1,85 +1,86 @@
-[{
-    "show": true,
+{
+  data: [{
+      "show": true,
 
-    "projectTitle": "flagship project testing from JSON",
+      "projectTitle": "flagship project testing from JSON",
 
-    "projectDescription": "This is created from JS",
+      "projectDescription": "This is created from JS",
 
-    "projectTags": "Web Development | Testing | Tags",
+      "projectTags": "Web Development | Testing | Tags",
 
-    "projectImg": {
-      "src": "img/projects/random.png",
-      "height": "50%",
+      "projectImg": {
+        "src": "img/projects/random.png",
+        "height": "50%",
+      },
+
+      "projectLink": "https://google.com",
+
+      "projectContainersize": "12",
+
+      "projectMiscClasses": ""
     },
 
-    "projectLink": "https://google.com",
+    {
+      "show": true,
 
-    "projectContainersize": "12",
+      "projectTitle": "Secondary Project A",
 
-    "projectMiscClasses": ""
-  },
+      "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
 
-  {
-    "show": true,
+      "projectTags": "UI/UX Design | Mobile App",
 
-    "projectTitle": "Secondary Project A",
+      "projectImg": {
+        "src": "img/projects/placeholder.png",
+        "height": "60%",
+      },
 
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
+      "projectLink": "https://google.com",
 
-    "projectTags": "UI/UX Design | Mobile App",
+      "projectContainersize": "6",
 
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
+      "projectMiscClasses": ""
     },
 
-    "projectLink": "https://google.com",
+    {
+      "show": true,
 
-    "projectContainersize": "6",
+      "projectTitle": "Secondary Project B",
 
-    "projectMiscClasses": ""
-  },
+      "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
 
-  {
-    "show": true,
+      "projectTags": "UI/UX Design | Mobile App",
 
-    "projectTitle": "Secondary Project B",
+      "projectImg": {
+        "src": "img/projects/placeholder.png",
+        "height": "60%",
+      },
 
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
+      "projectLink": "https://facebook.com",
 
-    "projectTags": "UI/UX Design | Mobile App",
+      "projectContainersize": "6",
 
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
+      "projectMiscClasses": ""
     },
 
-    "projectLink": "https://facebook.com",
+    {
+      "show": false,
 
-    "projectContainersize": "6",
+      "projectTitle": "Mini 1",
 
-    "projectMiscClasses": ""
-  },
+      "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
 
-  {
-    "show": false,
+      "projectTags": "UI/UX Design | Mobile App",
 
-    "projectTitle": "Mini 1",
+      "projectImg": {
+        "src": "img/projects/placeholder.png",
+        "height": "60%",
+      },
 
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
+      "projectLink": "https://facebook.com",
 
-    "projectTags": "UI/UX Design | Mobile App",
+      "projectContainersize": "4",
 
-    "projectImg": {
-      "src": "img/projects/placeholder.png",
-      "height": "60%",
-    },
-
-    "projectLink": "https://facebook.com",
-
-    "projectContainersize": "4",
-
-    "projectMiscClasses": ""
-  },
-
-]
+      "projectMiscClasses": ""
+    }
+  ]
+}

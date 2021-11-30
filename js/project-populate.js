@@ -121,8 +121,9 @@ function populate(){
 }
 populate();
 
-$.getJSON("project-data.json", function(json){
+var ajaxJSON;
+$.getJSON("https://josephhan.io/js/project-data.json", function(ajaxJSON){
   // console.log( "JSON Data: " + json[0].projectTitle );
-  console.log( "JSON Data: " + json[0].projectTitle );
+  console.log( "JSON Data: " + ajaxJSON);
 
 });

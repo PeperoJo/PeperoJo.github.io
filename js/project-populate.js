@@ -111,9 +111,18 @@ function projectContainer(block) {
     `;
 }
 
-for (i = 0; i < data.length; i++) {
-  var project00 = new projectContainer(data[i]);
-  if (project00.info.show) {
-    $('#projects').append(project00.output);
+function populate(){
+  for (i = 0; i < data.length; i++) {
+    var project00 = new projectContainer(data[i]);
+    if (project00.info.show) {
+      $('#projects').append(project00.output);
+    }
   }
 }
+populate();
+
+$.getJSON("project-data.json", function(json){
+  // console.log( "JSON Data: " + json[0].projectTitle );
+  console.log( "JSON Data: " + json[0].projectTitle );
+
+});

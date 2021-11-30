@@ -1,7 +1,7 @@
-var data = [{
+[{
     "show": true,
 
-    "projectTitle": "flagship project testing",
+    "projectTitle": "flagship project testing from JSON",
 
     "projectDescription": "This is created from JS",
 
@@ -82,4 +82,4 @@ var data = [{
     "projectMiscClasses": ""
   },
 
-];
+]

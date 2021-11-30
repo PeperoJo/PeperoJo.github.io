@@ -129,7 +129,16 @@ populate();
 // });
 
 
-var jsonCall = $.getJSON("https://josephhan.io/js/project-data.json",function(){
-   var jsonData = JSON.parse(jsonCall.responseText);
-   console.log(jsonData);
-  });
+
+
+fetch('https://josephhan.io/js/project-data.json')
+  .then(res => res.json()) // the .json() method parses the JSON response into a JS object literal
+  .then(data => console.log(data));
+
+// var jsonCall = $.getJSON("https://josephhan.io/js/project-data.json",function(){
+//    var jsonData = JSON.parse(jsonCall.responseText);
+//    console.log(jsonData);
+//   });
+// var URL = "https://josephhan.io/js/project-data.json";
+// var jsonCall = $.getJSON(URL);
+// var jsonData = jsonCall.responseText;

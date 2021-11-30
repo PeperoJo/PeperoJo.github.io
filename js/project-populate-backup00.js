@@ -1,6 +1,6 @@
 
 
-var URL = "https://josephhan.io/js/project-data.json";
+var URL = "https://josephhan.io/js/project-data-online.json";
 // https://stackoverflow.com/questions/31763022/how-do-you-get-responsetext-from-jquery-getjson-method-in-javascript
 // get JSON from URL
 // var jsonCall = $.getJSON(URL,function(){

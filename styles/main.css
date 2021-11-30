@@ -170,7 +170,9 @@ body {}
 
 .project-container:hover .project-title {
   transition: 0.5s;
-  background-image: linear-gradient(to top left, #aa4b6b, #6b6b83, #3b8d99);
+/*   background-image: linear-gradient(to top left, #aa4b6b, #6b6b83, #3b8d99); */
+  background-image: linear-gradient(to top left, #0b8793 #360033);
+
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;

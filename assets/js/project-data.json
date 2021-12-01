@@ -5,7 +5,7 @@
     "projectDescription": "This is created from JS",
     "projectTags": "Web Development | Testing | Tags",
     "projectImg": {
-      "src": "img/projects/random.png",
+      "src": "assets/img/projects/random.png",
       "height": "50%"
     },
     "projectLink": "https://google.com",
@@ -17,7 +17,7 @@
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
     "projectImg": {
-      "src": "img/projects/placeholder.png",
+      "src": "assets/img/projects/placeholder.png",
       "height": "60%"
     },
     "projectLink": "https://google.com",
@@ -29,19 +29,19 @@
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
     "projectImg": {
-      "src": "img/projects/placeholder.png",
+      "src": "assets/img/projects/placeholder.png",
       "height": "60%"
     },
     "projectLink": "https://facebook.com",
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "JSON-Secondary Project B NDA",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
     "projectImg": {
-      "src": "img/projects/placeholder.png",
+      "src": "assets/img/projects/placeholder.png",
       "height": "60%"
     },
     "projectLink": "https://facebook.com",
@@ -53,7 +53,7 @@
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
     "projectImg": {
-      "src": "img/projects/placeholder.png",
+      "src": "assets/img/projects/placeholder.png",
       "height": "60%"
     },
     "projectLink": "https://facebook.com",

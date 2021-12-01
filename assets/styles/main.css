@@ -176,7 +176,7 @@ body {}
 /*   font-weight: 700; */
 /*   font-weight: 900;
    */
-  
+
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -261,6 +261,13 @@ body {}
 
 .proj-text-dark0 {
   color: #404040;
+}
+
+.project-nda {
+  cursor: not-allowed;
+}
+.project-nda:hover {
+  background-color: yellow;
 }
 
 

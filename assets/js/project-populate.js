@@ -1,4 +1,4 @@
-var URL = "https://josephhan.io/js/project-data.json";
+var URL = "https://josephhan.io/assets/js/project-data.json";
 
 // https://stackoverflow.com/questions/31763022/how-do-you-get-responsetext-from-jquery-getjson-method-in-javascript
 var jsonData;

@@ -173,7 +173,9 @@ body {}
   background-image: linear-gradient(to top left, #aa4b6b, #6b6b83, #3b8d99);
 /*   background-image: linear-gradient(to top left, #0b8793 #360033);
  */
-  font-weight: 700;
+/*   font-weight: 700; */
+/*   font-weight: 900;
+   */
   -webkit-background-clip: text;
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -186,7 +188,7 @@ body {}
   display: inline-block;
 
   font-family: 'Roboto', sans-serif;
-  font-weight: 500;
+  font-weight: 700;
   /* font-weight: 300; */
   font-size: 15px;
   text-transform: uppercase;

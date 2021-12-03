@@ -1,23 +1,23 @@
 {
   "projects": [{
     "show": true,
-    "projectTitle": "JSON-flagship project testing from JSON",
-    "projectDescription": "This is created from JS",
-    "projectTags": "Web Development | Testing | Tags",
+    "projectTitle": "Past works (Archive)",
+    "projectDescription": "This portfolio includes various design works as well as engineering experiences that reflects upon my aspirations as a product designer with a development background. My mission is to use create innovative tools that will empower our society.",
+    "projectTags": "Product Design | UX Engineering | Development",
     "projectImg": {
-      "src": "assets/img/projects/random.png",
+      "src": "assets/img/projects/preview.jpg",
       "height": "50%"
     },
-    "projectLink": "https://google.com",
+    "projectLink": "https://drive.google.com/file/d/1FeIqy6x9sspNS7eBscHWoDejJkD00-2H/view",
     "projectContainersize": "12",
     "projectMiscClasses": ""
   }, {
     "show": true,
-    "projectTitle": "JSON-Secondary Project A",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-    "projectTags": "UI/UX Design | Mobile App",
+    "projectTitle": "venmo",
+    "projectDescription": "Venmo Split Pay is a new feature to the application that comes with the Venmo Card. It is indeed very helpful, but it still needs some improvement. Split Pay needs a metric visual metric as well as better method of splitting remaining cost.",
+    "projectTags": "Case Study | UX Design",
     "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
+      "src": "assets/img/projects/venmo_demo.gif",
       "height": "60%"
     },
     "projectLink": "https://google.com",
@@ -25,9 +25,9 @@
     "projectMiscClasses": ""
   }, {
     "show": true,
-    "projectTitle": "JSON-Secondary Project B",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-    "projectTags": "UI/UX Design | Mobile App",
+    "projectTitle": "linkedin",
+    "projectDescription": "Though LinkedIn is a powerful tool, it seems like the mobile platform could be better in terms of navigation. Here is my take on making the navigation more efficient.",
+    "projectTags": "Case Study | UX Design",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
       "height": "60%"
@@ -36,7 +36,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "JSON-Secondary Project B NDA",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",

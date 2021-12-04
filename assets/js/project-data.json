@@ -6,7 +6,8 @@
     "projectTags": "Product Design | UX Engineering | Development",
     "projectImg": {
       "src": "assets/img/cover.jpeg",
-      "height": "50%"
+      "height": "50%",
+      "alt" : "Preview of the PDF collection of past works."
     },
     "projectLink": "https://drive.google.com/file/d/1FeIqy6x9sspNS7eBscHWoDejJkD00-2H/view",
     "projectContainersize": "12",
@@ -18,7 +19,8 @@
     "projectTags": "Case Study | UX Design",
     "projectImg": {
       "src": "assets/img/venmo_demo.gif",
-      "height": "60%"
+      "height": "60%",
+      "alt" : "Preview of the Venmo split pay animation."
     },
     "projectLink": "https://josephhan0.medium.com/venmo-split-pay-the-right-way-7887a5038da2",
     "projectContainersize": "6",
@@ -30,7 +32,8 @@
     "projectTags": "Case Study | UX Design",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
+      "height": "60%",
+      "alt" : "Preview of the LinkedIn navigation animation."
     },
     "projectLink": "https://josephhan0.medium.com/linkedin-improving-navigation-e032a818158a",
     "projectContainersize": "6",

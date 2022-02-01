@@ -39,7 +39,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": false,
+    "show": true,
     "projectTitle": "JSON-Secondary Project B NDA",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",

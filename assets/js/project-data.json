@@ -1,6 +1,6 @@
 {
   "projects": [{
-    "show": true,
+    "show": false,
     "projectTitle": "Past works (Archive)",
     "projectDescription": "This portfolio includes various design works as well as engineering experiences that reflects upon my aspirations as a product designer with a development background. My mission is to use create innovative tools that will empower our society.",
     "projectTags": "Product Design | UX Engineering | Development",
@@ -13,7 +13,7 @@
     "projectContainersize": "12",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "venmo",
     "projectDescription": "Venmo Split Pay is a new feature to the application that comes with the Venmo Card. It is indeed very helpful, but it still needs some improvement. Split Pay needs a metric visual metric as well as better method of splitting remaining cost.",
     "projectTags": "Case Study | UX Design",
@@ -26,7 +26,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "linkedin",
     "projectDescription": "Though LinkedIn is a powerful tool, it seems like the mobile platform could be better in terms of navigation. Here is my take on making the navigation more efficient.",
     "projectTags": "Case Study | UX Design",
@@ -39,7 +39,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "JSON-Secondary Project B NDA",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
@@ -51,7 +51,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": "project-nda"
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Mini Coming Soon",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
@@ -60,6 +60,138 @@
       "height": "60%"
     },
     "projectLink": "",
+    "projectContainersize": "4",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": false,
+    "projectTitle": "",
+    "projectDescription": "",
+    "projectTags": "",
+    "projectImg": {
+      "src": "",
+      "height": ""
+    },
+    "projectLink": "",
+    "projectContainersize": "",
+    "projectMiscClasses": "project-nda project-comingsoon"
+  }, {
+    "show": false,
+    "projectTitle": "",
+    "projectDescription": "",
+    "projectTags": "",
+    "projectImg": {
+      "src": "",
+      "height": ""
+    },
+    "projectLink": "----------------------------------------------------------------------------------------",
+    "projectContainersize": "",
+    "projectMiscClasses": "project-nda project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Flagship Project",
+    "projectDescription": "12",
+    "projectTags": "UX Design | Mobile App",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "12",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Ecoco",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Design | Chrome Extension",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Sme11",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Design | Mobile App | Hackathon",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Covidopoly",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Design | Game Design",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "4",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Modular Camera",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "Industrial Design | Hardware | Design Exploration",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "VSA Partners",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Design | Wed Design",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "4",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Chick-fil-A",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Engineering | NLP",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "4",
+    "projectMiscClasses": "project-comingsoon"
+  }, {
+    "show": true,
+    "projectTitle": "Thomson Reuters",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Design | Machine Learning",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "",
+    "projectContainersize": "4",
+    "projectMiscClasses": "project-nda"
+  }, {
+    "show": true,
+    "projectTitle": "Cornell Tech",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectTags": "UX Design | Wed Design",
+    "projectImg": {
+      "src": "assets/img/projects/placeholder.png",
+      "height": "60%"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "4",
     "projectMiscClasses": "project-comingsoon"
   }]

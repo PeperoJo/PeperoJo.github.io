@@ -51,16 +51,16 @@
     "projectContainersize": "6",
     "projectMiscClasses": "project-nda"
   }, {
-    "show": false,
-    "projectTitle": "Mini 1",
+    "show": true,
+    "projectTitle": "Mini Coming Soon",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
       "height": "60%"
     },
-    "projectLink": "https://facebook.com",
+    "projectLink": "",
     "projectContainersize": "4",
-    "projectMiscClasses": ""
+    "projectMiscClasses": "project-comingsoon"
   }]
 }

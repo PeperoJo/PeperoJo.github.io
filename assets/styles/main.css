@@ -305,6 +305,48 @@ body {}
   opacity: 1;
 }
 
+.project-comingsoon {
+  cursor: not-allowed;
+}
+
+.project-comingsoon:after {
+  position: relative;
+  z-index: 100;
+  display: inline-block;
+
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  /* font-weight: 300; */
+  font-size: 15px;
+  text-transform: uppercase;
+
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+  color: #ffffff;
+  content: "Coming Soon";
+  z-index: 999;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  /* background: linear-gradient(to top left, #0F2027, #203A43, #2C5364); */
+  background-color: #1b1c1e;
+  opacity: 0;
+  transition: opacity 0.3s;
+  border-radius: 10px;
+}
+.project-comingsoon:hover:after {
+  opacity: 1;
+}
+
 
 /* ABOUT ME */
 .about-splash {

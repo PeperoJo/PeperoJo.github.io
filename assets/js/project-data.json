@@ -89,7 +89,7 @@
   }, {
     "show": true,
     "projectTitle": "Flagship Project",
-    "projectDescription": "12",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     "projectTags": "UX Design | Mobile App",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -101,7 +101,7 @@
   }, {
     "show": true,
     "projectTitle": "Ecoco",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Chrome Extension",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -113,7 +113,7 @@
   }, {
     "show": true,
     "projectTitle": "Sme11",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Mobile App | Hackathon",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -125,7 +125,7 @@
   }, {
     "show": true,
     "projectTitle": "Covidopoly",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Game Design",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -137,7 +137,7 @@
   }, {
     "show": true,
     "projectTitle": "Modular Camera",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "Industrial Design | Hardware | Design Exploration",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -149,7 +149,7 @@
   }, {
     "show": true,
     "projectTitle": "VSA Partners",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Wed Design",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -161,7 +161,7 @@
   }, {
     "show": true,
     "projectTitle": "Chick-fil-A",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Engineering | NLP",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -173,7 +173,7 @@
   }, {
     "show": true,
     "projectTitle": "Thomson Reuters",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Machine Learning",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
@@ -185,7 +185,7 @@
   }, {
     "show": true,
     "projectTitle": "Cornell Tech",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Wed Design",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",

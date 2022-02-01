@@ -97,7 +97,7 @@
     },
     "projectLink": "",
     "projectContainersize": "12",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": ""
   }, {
     "show": true,
     "projectTitle": "Ecoco",
@@ -109,7 +109,7 @@
     },
     "projectLink": "",
     "projectContainersize": "6",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": ""
   }, {
     "show": true,
     "projectTitle": "Sme11",
@@ -121,7 +121,7 @@
     },
     "projectLink": "",
     "projectContainersize": "6",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": ""
   }, {
     "show": true,
     "projectTitle": "Covidopoly",
@@ -133,7 +133,7 @@
     },
     "projectLink": "",
     "projectContainersize": "4",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": ""
   }, {
     "show": true,
     "projectTitle": "Modular Camera",
@@ -145,7 +145,7 @@
     },
     "projectLink": "",
     "projectContainersize": "4",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": ""
   }, {
     "show": true,
     "projectTitle": "VSA Partners",
@@ -193,6 +193,6 @@
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "4",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": ""
   }]
 }

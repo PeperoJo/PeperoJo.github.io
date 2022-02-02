@@ -1,6 +1,6 @@
 {
   "projects": [{
-    "show": false,
+    "show": true,
     "projectTitle": "Past works (Archive)",
     "projectDescription": "This portfolio includes various design works as well as engineering experiences that reflects upon my aspirations as a product designer with a development background. My mission is to use create innovative tools that will empower our society.",
     "projectTags": "Product Design | UX Engineering | Development",
@@ -87,7 +87,7 @@
     "projectContainersize": "",
     "projectMiscClasses": "project-nda project-comingsoon"
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Flagship Project",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
     "projectTags": "UX Design | Mobile App",

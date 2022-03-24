@@ -720,8 +720,8 @@ var SEPARATION = 100,
 
     // var windowHalfX = window.innerWidth / 2;
     // var windowHalfY = window.innerHeight / 2;
-    var windowHalfX = document.getElementsByClassName("main-splash")[0].offsetWidth / 2;
-    var windowHalfY = document.getElementsByClassName("main-splash")[0].offsetHeight / 2;
+    var windowHalfX = document.getElementsByClassName("splash-card")[0].offsetWidth / 2;
+    var windowHalfY = document.getElementsByClassName("splash-card")[0].offsetHeight / 2;
 
     init();
     animate();
@@ -731,10 +731,10 @@ var SEPARATION = 100,
         container = document.createElement('div');
         container.classList.add("main-animation");
         // document.body.appendChild(container);
-        document.getElementsByClassName("main-splash")[0].append(container);
+        document.getElementsByClassName("splash-card")[0].append(container);
 
         // camera = new THREE.PerspectiveCamera(120, window.innerWidth / window.innerHeight, 1, 10000);
-        camera = new THREE.PerspectiveCamera(120, document.getElementsByClassName("main-splash")[0].offsetWidth / document.getElementsByClassName("main-splash")[0].offsetHeight, 1, 10000);
+        camera = new THREE.PerspectiveCamera(120, document.getElementsByClassName("splash-card")[0].offsetWidth / document.getElementsByClassName("splash-card")[0].offsetHeight, 1, 10000);
 
         camera.position.z = 2000;
         //ADDED
@@ -748,7 +748,9 @@ var SEPARATION = 100,
         var material = new THREE.ParticleCanvasMaterial({
             // change-color main-color dot-color
             // color: 0xe1e1e1,
-            color: 0x29323c,
+            // color: 0x29323c,
+            color: 0x374351,
+
             program: function(context) {
 
                 context.beginPath();
@@ -776,7 +778,7 @@ var SEPARATION = 100,
         }
 
         renderer = new THREE.CanvasRenderer();
-        renderer.setSize(document.getElementsByClassName("main-splash")[0].offsetWidth, document.getElementsByClassName("main-splash")[0].offsetHeight);
+        renderer.setSize(document.getElementsByClassName("splash-card")[0].offsetWidth, document.getElementsByClassName("splash-card")[0].offsetHeight);
         container.appendChild(renderer.domElement);
 
         document.addEventListener('mousemove', onDocumentMouseMove, false);
@@ -791,13 +793,13 @@ var SEPARATION = 100,
 
     function onWindowResize() {
 
-        windowHalfX = document.getElementsByClassName("main-splash")[0].offsetWidth / 2;
-        windowHalfY = document.getElementsByClassName("main-splash")[0].offsetHeight / 2;
+        windowHalfX = document.getElementsByClassName("splash-card")[0].offsetWidth / 2;
+        windowHalfY = document.getElementsByClassName("splash-card")[0].offsetHeight / 2;
 
-        camera.aspect = document.getElementsByClassName("main-splash")[0].offsetWidth / document.getElementsByClassName("main-splash")[0].offsetHeight;
+        camera.aspect = document.getElementsByClassName("splash-card")[0].offsetWidth / document.getElementsByClassName("splash-card")[0].offsetHeight;
         camera.updateProjectionMatrix();
 
-        renderer.setSize(document.getElementsByClassName("main-splash")[0].offsetWidth, document.getElementsByClassName("main-splash")[0].offsetHeight);
+        renderer.setSize(document.getElementsByClassName("splash-card")[0].offsetWidth, document.getElementsByClassName("splash-card")[0].offsetHeight);
 
     }
 

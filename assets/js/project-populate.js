@@ -32,7 +32,8 @@ function projectContainer(block) {
           ${this.info.projectTags}
         </div>
         <div class="project-link p-3">
-          <i class="fas fa-external-link-alt"></i>
+          <i class="fas fa-external-link-alt d-none"></i>
+          <i class="fas fa-link"></i>
         </div>
         <div class="project-img">
           <img src="${this.info.projectImg.src}" alt="${this.info.projectImg.alt}" height="${this.info.projectImg.height}">

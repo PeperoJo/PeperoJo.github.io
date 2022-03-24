@@ -10,10 +10,10 @@
       "alt" : "Preview of the PDF collection of past works."
     },
     "projectLink": "https://drive.google.com/file/d/1FeIqy6x9sspNS7eBscHWoDejJkD00-2H/view",
-    "projectContainersize": "12",
+    "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": false,
+    "show": true,
     "projectTitle": "venmo",
     "projectDescription": "Venmo Split Pay is a new feature to the application that comes with the Venmo Card. It is indeed very helpful, but it still needs some improvement. Split Pay needs a metric visual metric as well as better method of splitting remaining cost.",
     "projectTags": "Case Study | UX Design",
@@ -26,7 +26,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": false,
+    "show": true,
     "projectTitle": "linkedin",
     "projectDescription": "Though LinkedIn is a powerful tool, it seems like the mobile platform could be better in terms of navigation. Here is my take on making the navigation more efficient.",
     "projectTags": "Case Study | UX Design",
@@ -39,7 +39,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": false,
+    "show": true,
     "projectTitle": "JSON-Secondary Project B NDA",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
     "projectTags": "UI/UX Design | Mobile App",
@@ -99,7 +99,7 @@
     "projectContainersize": "12",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Ecoco",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Chrome Extension",
@@ -111,7 +111,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Sme11",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Mobile App | Hackathon",
@@ -123,7 +123,7 @@
     "projectContainersize": "6",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Covidopoly",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Game Design",
@@ -135,7 +135,7 @@
     "projectContainersize": "4",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Modular Camera",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "Industrial Design | Hardware | Design Exploration",
@@ -147,7 +147,7 @@
     "projectContainersize": "4",
     "projectMiscClasses": ""
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "VSA Partners",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Wed Design",
@@ -159,7 +159,7 @@
     "projectContainersize": "4",
     "projectMiscClasses": "project-comingsoon"
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Chick-fil-A",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Engineering | NLP",
@@ -171,7 +171,7 @@
     "projectContainersize": "4",
     "projectMiscClasses": "project-comingsoon"
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Thomson Reuters",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Machine Learning",
@@ -183,7 +183,7 @@
     "projectContainersize": "4",
     "projectMiscClasses": "project-nda"
   }, {
-    "show": true,
+    "show": false,
     "projectTitle": "Cornell Tech",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Wed Design",

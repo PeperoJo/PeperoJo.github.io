@@ -21,7 +21,7 @@ function projectContainer(block) {
 
   this.output = `
     <div class="col-md-${this.info.projectContainersize} p-2">
-      <div class="project-container p-3 proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
+      <div class="project-container p-4 proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
         <div class="project-title">
           ${this.info.projectTitle}
         </div>

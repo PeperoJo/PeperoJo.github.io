@@ -28,10 +28,10 @@ function projectContainer(block) {
         <div class="project-descr">
           ${this.info.projectDescription}
         </div>
-        <div class="project-tags p-3">
+        <div class="project-tags p-4">
           ${this.info.projectTags}
         </div>
-        <div class="project-link p-3">
+        <div class="project-link p-4">
           <i class="fas fa-external-link-alt d-none"></i>
           <i class="fas fa-link"></i>
         </div>

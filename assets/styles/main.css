@@ -10,7 +10,9 @@ html {
 }
 
 body {
-  background-color: #F1F1F1;
+  /* background-color: #F1F1F1; */
+  background-image: linear-gradient(135deg, #fdfbfb, #ebedee);
+
 }
 
 /* ========== WAVING HAND ========== */
@@ -81,7 +83,7 @@ body {
 
   height: inherit;
   /* width: 100%; */
-  border-radius: 10px;
+  border-radius: 12.5px;
   box-shadow: 0 4px 17px 0 rgb(233 233 233 / 50);
   position: relative;
   text-align: center;
@@ -197,7 +199,7 @@ body {
   /* box-shadow: 0 4px 17px 0 rgb(233 233 233 / 50); */
 
 
-  border-radius: 10px;
+  border-radius: 12.5px;
   /* overflow: hidden; */
   /* transition: 0.3s; */
 }
@@ -364,7 +366,7 @@ body {
   background-color: #1b1c1e;
   opacity: 0;
   transition: opacity 0.3s;
-  border-radius: 10px;
+  border-radius: 12.5px;
 }
 .project-nda:hover:after {
   opacity: 1;
@@ -406,7 +408,7 @@ body {
   background-color: #1b1c1e;
   opacity: 0;
   transition: opacity 0.3s;
-  border-radius: 10px;
+  border-radius: 12.5px;
 }
 .project-comingsoon:hover:after {
   opacity: 1;
@@ -450,7 +452,7 @@ body {
   /* background-color: rgba(247, 247, 248, 1.0); */
 
 
-  border-radius: 10px;
+  border-radius: 12.5px;
 }
 .sidecard:last-child {
   margin-right: 0px;
@@ -462,7 +464,7 @@ body {
 .about-splash {
   /* background-color: #303030; */
   /* background-color: #c7cfd1; */
-  background-image: linear-gradient(135deg, #fdfbfb, #ebedee);
+  /* background-image: linear-gradient(135deg, #fdfbfb, #ebedee); */
 
   padding-top: 25px;
   padding-bottom: 40px;
@@ -472,11 +474,13 @@ body {
 
 
 .about-section {
+  background-color: #272727;
   /* background-color: #252525; */
-  background-color: #ffffff;
 
-  width: 100%;
-  border-radius: 10px;
+  /* background-color: #ffffff; */
+
+  /* width: 100%; */
+  border-radius: 12.5px;
 
   box-shadow: 0 4px 17px 0 rgb(233 233 233 / 50);
 
@@ -484,6 +488,8 @@ body {
 
 .about-detail {
   /* height: 500px; */
+  color: #ffffff;
+
 }
 
 .img-center {
@@ -514,7 +520,7 @@ body {
   font-weight: 500;
 
   /* font-weight: 300; */
-  font-size: 15px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 
@@ -577,7 +583,9 @@ body {
 
 .about-list {
   display: block;
-  background-color: #fafafa;
+  /* background-color: #fafafa; */
+  background-color: rgba(255, 255, 255, 0.1);
+
   padding: 10px;
   border-radius: 5px;
 }
@@ -591,22 +599,27 @@ body {
   font-size: 30px;
   font-weight: 600;
   font-style: italic;
-  color: #4C4C4A;
+  /* color: #4C4C4A; */
+  color: #ffffff;
   /* text-align: center; */
   padding-left: 25px;
+
 }
 
 .about-name-kr {
   font-family: 'Gowun Batang', serif;
   font-weight: 700;
   font-size: 18px;
+  color: #ffffff;
 }
 
 .about-name-info {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
     font-weight: 400;
-    color: #4C4C4A;
+    /* color: #4C4C4A; */
+    color: #ffffff;
+
     /* text-align: center; */
     padding-left: 25px;
     padding-right: 25px;

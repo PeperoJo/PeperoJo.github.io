@@ -36,7 +36,7 @@ function projectContainer(block) {
           <i class="fas fa-link"></i>
         </div>
         <div class="project-img">
-          <img src="${this.info.projectImg.src}" alt="${this.info.projectImg.alt}" height="${this.info.projectImg.height} width="${this.info.projectImg.width}">
+          <img src="${this.info.projectImg.src}" alt="${this.info.projectImg.alt}" height="${this.info.projectImg.height}" width="${this.info.projectImg.width}">
         </div>
       </div>
     </div>

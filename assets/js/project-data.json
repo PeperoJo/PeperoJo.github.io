@@ -200,7 +200,7 @@
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
+      "src": "assets/img/projects/moonranger1.png",
       "height": "60%"
     },
     "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
@@ -236,8 +236,8 @@
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
+      "src": "assets/img/projects/thomsonreuters.png",
+      "width": "70%"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

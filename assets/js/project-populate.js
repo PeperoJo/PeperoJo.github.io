@@ -36,7 +36,7 @@ function projectContainer(block) {
           <i class="fas fa-link"></i>
         </div>
         <div class="project-img">
-          <img src="${this.info.projectImg.src}" alt="${this.info.projectImg.alt}" ${this.info.projectImg.sizeplacement}>
+          <img src="${this.info.projectImg.src}" ${this.info.projectImg.sizeplacement}>
         </div>
       </div>
     </div>

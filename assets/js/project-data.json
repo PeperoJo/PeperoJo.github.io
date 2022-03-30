@@ -6,7 +6,7 @@
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
       "src": "assets/img/projects/moonranger1.png",
-      "sizeplacement": " height: '60%' "
+      "sizeplacement": " height: 60% "
     },
     "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
     "projectContainersize": "6",
@@ -18,7 +18,7 @@
     "projectTags": "Product Design | FinTech | Mobile",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "sizeplacement": " height: '60%' "
+      "sizeplacement": " height: 60% "
     },
     "projectLink": "https://www.figma.com/proto/MCw0ehvUeLxecJiMTpK5re/Robinhood%3A-Calendar?page-id=510%3A13888&node-id=535%3A17845&viewport=241%2C48%2C0.08&scaling=scale-down-width&hide-ui=1",
     "projectContainersize": "6",
@@ -30,7 +30,7 @@
     "projectTags": "UX Design + Research | Plugin",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "sizeplacement": " height: '60%' "
+      "sizeplacement": " height: 60% "
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",
@@ -42,7 +42,7 @@
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
-      "sizeplacement": " height: '60%' "
+      "sizeplacement": " height: 60% "
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

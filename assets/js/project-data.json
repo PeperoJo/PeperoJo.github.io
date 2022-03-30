@@ -1,221 +1,14 @@
 {
   "projects": [{
-    "show": false,
-    "projectTitle": "Past works (Archive)",
-    "projectDescription": "This portfolio includes various design works as well as engineering experiences that reflects upon my aspirations as a product designer with a development background. My mission is to use create innovative tools that will empower our society.",
-    "projectTags": "Product Design | UX Engineering | Development",
-    "projectImg": {
-      "src": "assets/img/cover.jpeg",
-      "height": "50%",
-      "alt" : "Preview of the PDF collection of past works."
-    },
-    "projectLink": "https://drive.google.com/file/d/1FeIqy6x9sspNS7eBscHWoDejJkD00-2H/view",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "venmo",
-    "projectDescription": "Venmo Split Pay is a new feature to the application that comes with the Venmo Card. It is indeed very helpful, but it still needs some improvement. Split Pay needs a metric visual metric as well as better method of splitting remaining cost.",
-    "projectTags": "Case Study | UX Design",
-    "projectImg": {
-      "src": "assets/img/venmo_demo.gif",
-      "height": "60%",
-      "alt" : "Preview of the Venmo split pay animation."
-    },
-    "projectLink": "https://josephhan0.medium.com/venmo-split-pay-the-right-way-7887a5038da2",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "linkedin",
-    "projectDescription": "Though LinkedIn is a powerful tool, it seems like the mobile platform could be better in terms of navigation. Here is my take on making the navigation more efficient.",
-    "projectTags": "Case Study | UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%",
-      "alt" : "Preview of the LinkedIn navigation animation."
-    },
-    "projectLink": "https://josephhan0.medium.com/linkedin-improving-navigation-e032a818158a",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "JSON-Secondary Project B NDA",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-    "projectTags": "UI/UX Design | Mobile App",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "https://facebook.com",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-nda"
-  }, {
-    "show": false,
-    "projectTitle": "Mini Coming Soon",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sem est, aliquam ut libero id, tincidunt mollis odio.",
-    "projectTags": "UI/UX Design | Mobile App",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "",
-    "projectContainersize": "4",
-    "projectMiscClasses": "project-comingsoon"
-  }, {
-    "show": false,
-    "projectTitle": "",
-    "projectDescription": "",
-    "projectTags": "",
-    "projectImg": {
-      "src": "",
-      "height": ""
-    },
-    "projectLink": "",
-    "projectContainersize": "",
-    "projectMiscClasses": "project-nda project-comingsoon"
-  }, {
-    "show": false,
-    "projectTitle": "",
-    "projectDescription": "",
-    "projectTags": "",
-    "projectImg": {
-      "src": "",
-      "height": ""
-    },
-    "projectLink": "----------------------------------------------------------------------------------------",
-    "projectContainersize": "",
-    "projectMiscClasses": "project-nda project-comingsoon"
-  }, {
-    "show": false,
-    "projectTitle": "Flagship Project",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    "projectTags": "UX Design | Mobile App",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "",
-    "projectContainersize": "12",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "Ecoco",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Design | Chrome Extension",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "Sme11",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Design | Mobile App | Hackathon",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "Covidopoly",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Design | Game Design",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "https://josephhan.io/assets/projects/covidopoly.pdf",
-    "projectContainersize": "4",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "Modular Camera",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "Industrial Design | Hardware | Design Exploration",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "https://josephhan.io/assets/projects/modularcamera.pdf",
-    "projectContainersize": "4",
-    "projectMiscClasses": ""
-  }, {
-    "show": false,
-    "projectTitle": "VSA Partners",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Design | Wed Design",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "https://josephhan.io/assets/projects/silencespeaks.pdf",
-    "projectContainersize": "4",
-    "projectMiscClasses": "project-comingsoon"
-  }, {
-    "show": false,
-    "projectTitle": "Chick-fil-A",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Engineering | NLP",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
-    "projectContainersize": "4",
-    "projectMiscClasses": "project-comingsoon"
-  }, {
-    "show": false,
-    "projectTitle": "Thomson Reuters",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Design | Machine Learning",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "",
-    "projectContainersize": "4",
-    "projectMiscClasses": "project-nda"
-  }, {
-    "show": false,
-    "projectTitle": "Cornell Tech",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "UX Design | Wed Design",
-    "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "4",
-    "projectMiscClasses": ""
-  }, {
-    "show": true,
-    "projectTitle": "MoonRanger x NASA",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
-    "projectTags": "Product Design | Dashboard | Aerospace",
-    "projectImg": {
-      "src": "assets/img/projects/moonranger1.png",
-      "height": "60%"
-    },
-    "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-comingsoon"
-  }, {
     "show": true,
     "projectTitle": "Robinhood Calendar",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "Product Design | FinTech | Mobile",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
+      "sizeplacement": "height: '60%'"
     },
-    "projectLink": "",
+    "projectLink": "https://www.figma.com/proto/MCw0ehvUeLxecJiMTpK5re/Robinhood%3A-Calendar?page-id=510%3A13888&node-id=535%3A17845&viewport=241%2C48%2C0.08&scaling=scale-down-width&hide-ui=1",
     "projectContainersize": "6",
     "projectMiscClasses": "project-nda"
   }, {
@@ -225,7 +18,7 @@
     "projectTags": "UX Design + Research | Plugin",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "height": "60%"
+      "sizeplacement": "height: '60%'"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",
@@ -237,7 +30,7 @@
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
-      "width": "70%"
+      "sizeplacement": "height: '60%'"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

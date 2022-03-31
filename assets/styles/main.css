@@ -635,3 +635,8 @@ body {
 .about-name-definition {
   padding-top: 15px;
 }
+
+.figma {
+  height: 100vh;
+  padding-top: 66px;
+}

@@ -18,7 +18,7 @@
     "projectTags": "Product Design | FinTech | Mobile",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "style": "height: 50%"
+      "style": "height: 75%"
     },
     "projectLink": "https://www.figma.com/proto/MCw0ehvUeLxecJiMTpK5re/Robinhood%3A-Calendar?page-id=510%3A13888&node-id=535%3A17845&viewport=241%2C48%2C0.08&scaling=scale-down-width&hide-ui=1",
     "projectContainersize": "6",
@@ -42,7 +42,7 @@
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
-      "style": "height: 50%"
+      "style": "width: 75%"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

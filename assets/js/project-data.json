@@ -14,10 +14,10 @@
   }, {
     "show": true,
     "projectTitle": "Robinhood Calendar",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+    "projectDescription": "Easy way to keep track of dividend payments and manage passive income. Hassle free. Gain the insights you need to grow your dividend portfolio.",
     "projectTags": "Product Design | FinTech | Mobile",
     "projectImg": {
-      "src": "assets/img/projects/placeholder.png",
+      "src": "assets/img/projects/robinhood.png",
       "style": "height: 75%"
     },
     "projectLink": "https://www.figma.com/proto/MCw0ehvUeLxecJiMTpK5re/Robinhood%3A-Calendar?page-id=510%3A13888&node-id=535%3A17845&viewport=241%2C48%2C0.08&scaling=scale-down-width&hide-ui=1",

@@ -5,8 +5,11 @@
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
-      "src": "assets/img/projects/moonranger1.png",
-      "style": "height: 50%"
+      "src": "assets/img/projects/moonranger2.png",
+      "style": "
+        width: 100%;
+        margin: auto;
+        padding-bottom: 20px;"
     },
     "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
     "projectContainersize": "6",

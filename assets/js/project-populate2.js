@@ -20,43 +20,6 @@ function projectContainer(block) {
   this.info = block;
 
   this.output = `
-      <div class="col-md-${this.info.projectContainersize} p-2">
-        <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
-
-          <div class="project2-info p-4 bg-blur">
-            <div style="position:relative; padding-bottom: 40px;">
-              <div class="project2-title">
-                ${this.info.projectTitle}
-              </div>
-              <div class="project2-descr">
-                ${this.info.projectDescription}
-              </div>
-              <div class="project2-tags">
-                ${this.info.projectTags}
-              </div>
-              <div class="project2-link">
-                <i class="fas fa-external-link-alt d-none"></i>
-                <i class="fas fa-link"></i>
-              </div>
-            </div>
-
-          </div>
-          <div class="project2-img img-hover" id="moonranger" style="">
-            <img src="${this.info.projectImg.src}"
-            style="
-              ${this.info.projectImg.style}
-            "
-            >
-          </div>
-
-
-
-
-        </div>
-      </div>
-    `;
-
-  this.output2 = `
     <div class="col-md-${this.info.projectContainersize} p-2">
       <div class="project-container p-4 proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
         <div class="project-title">

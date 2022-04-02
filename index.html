@@ -23,6 +23,8 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <!-- CUSTOM -->
   <link rel="stylesheet" href="assets/styles/main.css">
+  <link rel="stylesheet" href="assets/styles/projectcontainer.css">
+
   <!-- FONTAWESOME -->
   <script src="https://kit.fontawesome.com/08c643bf5d.js" crossorigin="anonymous"></script>
 
@@ -141,6 +143,45 @@
 
     <div class="row" id="projects">
       <!-- js will populate projects here -->
+
+      <div class="col-md-6 p-2 d-none">
+        <div class="project2-container  proj-text-dark0" onclick="window.open('${this.info.projectLink}','mywindow');">
+
+          <div class="project2-info p-4 bg-blur">
+            <div style="position:relative; padding-bottom: 40px;">
+              <div class="project2-title">
+                MoonRanger x NASA
+              </div>
+              <div class="project2-descr">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+              </div>
+              <div class="project2-tags">
+                Product Design | Dashboard | Aerospace
+              </div>
+              <div class="project2-link">
+                <i class="fas fa-external-link-alt d-none"></i>
+                <i class="fas fa-link"></i>
+              </div>
+            </div>
+
+          </div>
+          <div class="project2-img img-hover" id="moonranger" style="">
+            <img src="assets/img/projects/moonranger2.png"
+            style="
+              width: 100%;
+              margin: auto;
+              padding-bottom: 20px;
+            "
+            >
+          </div>
+
+
+
+
+        </div>
+      </div>
+
+
     </div>
   </div>
 

@@ -6,11 +6,11 @@
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
       "src": "assets/img/projects/moonranger2.png",
-      "style": "width: 100%;margin: auto;padding-bottom: 20px;"
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;"
     },
     "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
     "projectContainersize": "6",
-    "projectMiscClasses": "project-comingsoon"
+    "projectMiscClasses": "project-comingsoon2"
   }, {
     "show": true,
     "projectTitle": "Robinhood Calendar",
@@ -46,6 +46,6 @@
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",
-    "projectMiscClasses": "project-nda"
+    "projectMiscClasses": "project-nda2"
   }]
 }

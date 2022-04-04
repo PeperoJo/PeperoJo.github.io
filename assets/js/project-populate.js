@@ -27,6 +27,7 @@ function projectContainer(block) {
 
       <div class="project2-img"
         style="
+          position: relative;
           width: 100%;
           height: 275px;
           background-color: #E5E5E5;
@@ -34,11 +35,16 @@ function projectContainer(block) {
         ">
         <img src="${this.info.projectImg.src}"
         style="
-        display: block;
 
           height: 100%;
-          margin-left: auto;
-          margin-right: auto;
+          position: absolute;
+          top: -9999px;
+          bottom: -9999px;
+          left: -9999px;
+          right: -9999px;
+          margin: auto;
+          /* margin-left: auto; */
+          /* margin-right: auto; */
           /* padding-bottom: 20px; */
           /* background-color: blue; */
         "

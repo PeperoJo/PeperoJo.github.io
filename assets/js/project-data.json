@@ -33,7 +33,7 @@
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
       "style": "height: 50%;",
-      "bgcolor" : "#B2FF59"
+      "bgcolor" : "#E5E5E5"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",
@@ -46,7 +46,7 @@
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
       "style": "width: 65%",
-      "bgcolor" : "#B2FF59"
+      "bgcolor" : "#E5E5E5"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

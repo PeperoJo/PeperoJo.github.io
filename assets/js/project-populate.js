@@ -29,7 +29,7 @@ function projectContainer(block) {
         style="
           position: relative;
           width: 100%;
-          height: 275px;
+          height: 325px;
           background-color: #E5E5E5;
           overflow: hidden;
         ">

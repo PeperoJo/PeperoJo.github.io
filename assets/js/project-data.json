@@ -1,8 +1,8 @@
 {
   "projects": [{
     "show": true,
-    "projectTitle": "MoonRanger x NASA",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+    "projectTitle": "MoonRanger × NASA",
+    "projectDescription": "Modular dashboard design for command officers to manage a robotic lunar rover. To be launched in 2023.",
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
       "src": "assets/img/projects/moonranger2.png",
@@ -41,7 +41,7 @@
   }, {
     "show": true,
     "projectTitle": "Thomson Reuters",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+    "projectDescription": "Explainability interface for a web application that uses a legal classification model.",
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",

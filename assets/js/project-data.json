@@ -46,7 +46,7 @@
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
       "style": "width: 65%",
-      "bgcolor" : "#E5E5E5"
+      "bgcolor" : "#F2F3F5"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

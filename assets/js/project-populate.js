@@ -20,6 +20,9 @@ function projectContainer(block) {
   this.info = block;
 
 
+  var onclickaction = "";
+
+
   this.output = `
   <div class="col-md-${this.info.projectContainersize} p-2">
     <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
@@ -30,7 +33,7 @@ function projectContainer(block) {
           position: relative;
           width: 100%;
           height: 325px;
-          background-color: #E5E5E5;
+          background-color: ${this.info.projectImg.bgcolor};
           overflow: hidden;
         ">
         <img src="${this.info.projectImg.src}"

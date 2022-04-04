@@ -6,7 +6,8 @@
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
       "src": "assets/img/projects/moonranger2.png",
-      "style": "width: 100%; margin: auto; padding-bottom: 20px;"
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#37373F"
     },
     "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
     "projectContainersize": "6",
@@ -18,7 +19,8 @@
     "projectTags": "Product Design | FinTech | Mobile",
     "projectImg": {
       "src": "assets/img/projects/robinhood.png",
-      "style": "height: 65%; padding-top: 20px;"
+      "style": "height: 65%; padding-top: 20px;",
+      "bgcolor" : "#B2FF59"
     },
     "projectLink": "https://josephhan.io/robinhood.html",
     "projectContainersize": "6",
@@ -30,7 +32,8 @@
     "projectTags": "UX Design + Research | Plugin",
     "projectImg": {
       "src": "assets/img/projects/placeholder.png",
-      "style": "height: 50%;"
+      "style": "height: 50%;",
+      "bgcolor" : "#B2FF59"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",
@@ -42,7 +45,8 @@
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
-      "style": "width: 65%"
+      "style": "width: 65%",
+      "bgcolor" : "#B2FF59"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

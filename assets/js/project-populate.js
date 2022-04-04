@@ -19,7 +19,62 @@ var jsonCall = $.getJSON(URL,function(){
 function projectContainer(block) {
   this.info = block;
 
+
   this.output = `
+  <div class="col-md-${this.info.projectContainersize} p-2">
+    <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
+
+
+      <div class="project2-img"
+        style="
+          width: 100%;
+          height: 275px;
+          background-color: #E5E5E5;
+          overflow: hidden;
+        ">
+        <img src="${this.info.projectImg.src}"
+        style="
+        display: block;
+
+          height: 100%;
+          margin-left: auto;
+          margin-right: auto;
+          /* padding-bottom: 20px; */
+          /* background-color: blue; */
+        "
+        >
+      </div>
+
+
+      <div class="project2-info pt-4">
+        <div style="position:relative; padding-bottom: 70px;">
+          <div class="project2-tags">
+            ${this.info.projectTags}
+          </div>
+
+          <div class="project2-title">
+            ${this.info.projectTitle}
+          </div>
+          <div class="project2-descr">
+            ${this.info.projectDescription}
+          </div>
+
+          <div class="project2-link d-none">
+            <i class="fas fa-external-link-alt d-none"></i>
+            <i class="fas fa-link"></i>
+          </div>
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+
+
+  `;
+
+  this.output1 = `
       <div class="col-md-${this.info.projectContainersize} p-2">
         <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
 

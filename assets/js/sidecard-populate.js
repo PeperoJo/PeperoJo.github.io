@@ -27,6 +27,7 @@ function sidecardContainer(block) {
     <div class="sidecard">
       <div class="sideimg"
         style="
+          position: relative;
           width: 100%;
           height: 200px;
           background-color: ${this.info.projectImg.bgcolor};
@@ -34,10 +35,15 @@ function sidecardContainer(block) {
         <img src="${this.info.projectImg.src}"
         style="
         display: block;
-          width: 100%;
+          height: 100%;
           /* height: 100%; */
-          margin-left: auto;
-          margin-right: auto;
+          position: absolute;
+          top: -9999px;
+          bottom: -9999px;
+          left: -9999px;
+          right: -9999px;
+          margin: auto;
+
           /* padding-bottom: 20px; */
           /* background-color: blue; */
         "

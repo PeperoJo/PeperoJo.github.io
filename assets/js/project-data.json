@@ -7,7 +7,7 @@
     "projectImg": {
       "src": "assets/img/projects/moonranger2.png",
       "style": "width: 100%; margin: auto; padding-bottom: 20px;",
-      "bgcolor" : "#37373F"
+      "bgcolor" : "#D5DADC"
     },
     "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
     "projectContainersize": "6",

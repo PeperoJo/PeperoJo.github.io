@@ -33,7 +33,7 @@
     "projectImg": {
       "src": "assets/img/projects/sme11.png",
       "style": "height: 50%;",
-      "bgcolor" : "#E5E5E5"
+      "bgcolor" : "#D7D3DE"
     },
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",

@@ -42,7 +42,7 @@
     "show": true,
     "projectTitle": "Thomson Reuters",
     "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
-    "projectTags": "UX Design | Web Design | ML Model",
+    "projectTags": "UX Design | Web Design | Machine Learning",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
       "style": "width: 55%",

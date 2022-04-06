@@ -45,7 +45,6 @@ function sidecardContainer(block) {
       </div>
       <div class="sideinfo p-3"
         style="
-          background-color: red;
           display: block;
           white-space: normal;
         "

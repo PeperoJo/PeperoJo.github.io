@@ -421,51 +421,6 @@ body {
 
 
 
-/* CARD SLIDER */
-#sideprojects {
-  margin-top: 25px;
-
-  position: relative;
-  /* height: 500px; */
-  /* width: 100%; */
-  /* background-color: red; */
-  /* left: 50px; */
-  margin: 0;
-
-  overflow-x: scroll;
-  overflow-y: hidden;
-  white-space: nowrap;
-}
-
-#sideprojects::-webkit-scrollbar {
-    width: 0px;
-    background: transparent; /* make scrollbar transparent */
-}
-
-.sidecard {
-  display: inline-block;
-  /* height: 491px;
-  width: 375px; */
-  height: 400px;
-  width: 300px;
-  /* background-color: black; */
-  margin-right: 15px;
-  margin-bottom: 10px;
-
-
-  border-radius: 3px;
-  border: 1px solid rgba(31,31,31,.04);
-
-
-  /* background-color: rgba(255, 255, 255, 1.0); */
-  /* background-color: rgba(247, 247, 248, 1.0); */
-
-
-  border-radius: 7.5px;;
-}
-.sidecard:last-child {
-  margin-right: 0px;
-}
 
 
 

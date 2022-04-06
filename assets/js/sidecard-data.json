@@ -51,5 +51,57 @@
     "projectLink": "https://s.tech.cornell.edu",
     "projectContainersize": "6",
     "projectMiscClasses": "project-nda2"
+  }{
+    "show": true,
+    "projectTitle": "Sme11",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projectTags": "UX Design",
+    "projectImg": {
+      "src": "assets/img/projects/sme11.png",
+      "style": "height: 50%;",
+      "bgcolor" : "#D7D3DE"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  }, {
+    "show": true,
+    "projectTitle": "Thomson Reuters",
+    "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
+    "projectTags": "UX Design",
+    "projectImg": {
+      "src": "assets/img/projects/thomsonreuters.png",
+      "style": "width: 55%",
+      "bgcolor" : "#F2F3F5"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-nda2"
+  }{
+    "show": true,
+    "projectTitle": "Sme11",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "projectTags": "UX Design",
+    "projectImg": {
+      "src": "assets/img/projects/sme11.png",
+      "style": "height: 50%;",
+      "bgcolor" : "#D7D3DE"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  }, {
+    "show": true,
+    "projectTitle": "Thomson Reuters",
+    "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
+    "projectTags": "UX Design",
+    "projectImg": {
+      "src": "assets/img/projects/thomsonreuters.png",
+      "style": "width: 55%",
+      "bgcolor" : "#F2F3F5"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-nda2"
   }]
 }

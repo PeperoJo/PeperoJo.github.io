@@ -45,7 +45,7 @@
     "projectTags": "UX Design | Web Design | ML Model",
     "projectImg": {
       "src": "assets/img/projects/thomsonreuters.png",
-      "style": "width: 65%",
+      "style": "width: 55%",
       "bgcolor" : "#F2F3F5"
     },
     "projectLink": "https://s.tech.cornell.edu",

@@ -22,9 +22,15 @@ function sidecardContainer(block) {
 
   var onclickaction = "";
 
+  if (this.info.projectLink != ""){
+    onclickAction = `onclick="window.open('${this.info.projectLink}','mywindow');"`;
+  } else {
+    onclickAction = ``;
+  }
+
 
   this.output = `
-    <div class="sidecard">
+    <div class="sidecard" ${onclickAction}>
       <div class="sideimg"
         style="
           position: relative;

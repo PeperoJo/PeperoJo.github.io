@@ -1,11 +1,11 @@
 {
   "projects": [{
     "show": true,
-    "projectTitle": "MoonRanger × NASA",
+    "projectTitle": "Music Control Design",
     "projectDescription": "Modular dashboard design for command officers to manage a robotic lunar rover. To be launched in 2023.",
-    "projectTags": "Product Design",
+    "projectTags": "User Interface | Industrial Design",
     "projectImg": {
-      "src": "assets/img/projects/moonranger2.png",
+      "src": "assets/img/projects/music.png",
       "style": "width: 100%; margin: auto; padding-bottom: 20px;",
       "bgcolor" : "#D5DADC"
     },

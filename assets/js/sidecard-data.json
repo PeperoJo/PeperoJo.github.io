@@ -1,0 +1,55 @@
+{
+  "projects": [{
+    "show": true,
+    "projectTitle": "MoonRanger × NASA",
+    "projectDescription": "Modular dashboard design for command officers to manage a robotic lunar rover. To be launched in 2023.",
+    "projectTags": "Product Design | Dashboard | Aerospace",
+    "projectImg": {
+      "src": "assets/img/projects/moonranger2.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  }, {
+    "show": true,
+    "projectTitle": "Robinhood Calendar",
+    "projectDescription": "Easy way to keep track of dividend payments and manage passive income. Hassle free. Gain the insights you need to grow your dividend portfolio.",
+    "projectTags": "Product Design | FinTech | Mobile",
+    "projectImg": {
+      "src": "assets/img/projects/robinhood1.png",
+      "style": "height: 65%; padding-top: 20px;",
+      "bgcolor" : "#D7DED3"
+    },
+    "projectLink": "https://josephhan.io/robinhood.html",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  }, {
+    "show": true,
+    "projectTitle": "Sme11",
+    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
+    "projectTags": "UX Design | Hackathon | A11Y",
+    "projectImg": {
+      "src": "assets/img/projects/sme11.png",
+      "style": "height: 50%;",
+      "bgcolor" : "#D7D3DE"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  }, {
+    "show": true,
+    "projectTitle": "Thomson Reuters",
+    "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
+    "projectTags": "UX Design | Web Design | Machine Learning",
+    "projectImg": {
+      "src": "assets/img/projects/thomsonreuters.png",
+      "style": "width: 55%",
+      "bgcolor" : "#F2F3F5"
+    },
+    "projectLink": "https://s.tech.cornell.edu",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-nda2"
+  }]
+}

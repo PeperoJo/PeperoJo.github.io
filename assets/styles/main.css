@@ -179,7 +179,7 @@ body {
 
 #works {
   margin-top: 25px;
-  margin-bottom: 25px;
+  /* margin-bottom: 25px; */
 }
 
 .project-section {
@@ -423,6 +423,8 @@ body {
 
 /* CARD SLIDER */
 #sideprojects {
+  margin-top: 25px;
+
   position: relative;
   /* height: 500px; */
   /* width: 100%; */
@@ -451,7 +453,11 @@ body {
   margin-bottom: 10px;
 
 
-  background-color: rgba(255, 255, 255, 1.0);
+  border-radius: 3px;
+  border: 1px solid rgba(31,31,31,.1);
+
+
+  /* background-color: rgba(255, 255, 255, 1.0); */
   /* background-color: rgba(247, 247, 248, 1.0); */
 
 

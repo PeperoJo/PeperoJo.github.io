@@ -15,7 +15,7 @@
   }, {
     "show": true,
     "projectTitle": "Modular Camera",
-    "projectDescription": "Manual mode for the hardware. Smart camera that can be configured to the user's needs.",
+    "projectDescription": "Manual mode for the hardware.<br>Smart camera that can be configured to the user's needs.",
     "projectTags": "Industrial Design | Hardware",
     "projectImg": {
       "src": "assets/img/projects/modularcam.png",
@@ -41,7 +41,7 @@
   }, {
     "show": true,
     "projectTitle": "Chick-fil-A",
-    "projectDescription": "Interactive help desk assistant tool powered by NLP to pull up suggested documents and display audio transcriptions.",
+    "projectDescription": "Interactive help desk assistant tool powered by NLP to recommend documents and display transcriptions.",
     "projectTags": "NLP | CONVERSATION UI",
     "projectImg": {
       "src": "assets/img/projects/chickfila.png",
@@ -67,7 +67,7 @@
   }, {
     "show": true,
     "projectTitle": "Music Control Design",
-    "projectDescription": "Redesigning conventional speaker controls to reduce the cumbersomeness and improve the user experience.",
+    "projectDescription": "Redesigned conventional speaker controls to reduce cumbersomeness and provide a more engaging experience.",
     "projectTags": "UI | Interaction Design",
     "projectImg": {
       "src": "assets/img/projects/music.png",

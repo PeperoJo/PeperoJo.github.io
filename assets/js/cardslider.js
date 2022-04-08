@@ -33,10 +33,10 @@ const buttonRight = document.getElementById('slideRight');
 const buttonLeft = document.getElementById('slideLeft');
 
 buttonRight.onclick = function () {
-  document.getElementById('sideprojects').scrollLeft += 315;
+  document.getElementById('sideprojects').scrollLeft += (315+2);
 };
 buttonLeft.onclick = function () {
-  document.getElementById('sideprojects').scrollLeft -= 315;
+  document.getElementById('sideprojects').scrollLeft -= (315+2);
 };
 
 

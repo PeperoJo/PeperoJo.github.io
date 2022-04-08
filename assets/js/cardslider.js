@@ -27,3 +27,28 @@ function cardSliderFormat () {
 
 $(document).ready(cardSliderFormat());
 $(window).resize(cardSliderFormat());
+
+
+const buttonRight = document.getElementById('slideRight');
+const buttonLeft = document.getElementById('slideLeft');
+
+buttonRight.onclick = function () {
+  document.getElementById('sideprojects').scrollLeft += 315;
+};
+buttonLeft.onclick = function () {
+  document.getElementById('sideprojects').scrollLeft -= 315;
+};
+
+
+
+
+
+
+document.getElementById('sideprojects').onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+}

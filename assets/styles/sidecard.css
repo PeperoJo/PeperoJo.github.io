@@ -53,3 +53,42 @@
   box-shadow: 0 4px 17px 0 rgb(233 233 233 / 50);
 
 }
+
+
+.sliderBtn {
+  display: inline-block;
+  outline: 0;
+  cursor: pointer;
+  border: none;
+  /* padding: 0 56px; */
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 7px;
+  font-weight: 200;
+  font-size: 18px;
+  background: #fff;
+  /* color: #212121; */
+  color: #A4A5B3;
+  /* box-shadow: 0 4px 14px 0 rgb(0 0 0 / 10%); */
+}
+
+.sliderBtn:hover {
+  box-shadow: 0 4px 14px 0 rgb(0 0 0 / 10%);
+
+}
+
+
+/* The progress container (grey background) */
+.progress-container {
+  width: 150px;
+  height: 5px;
+  background: #ccc;
+}
+
+/* The progress bar (scroll indicator) */
+.progress-bar {
+  height: 5px;
+  background: #04AA6D;
+  width: 0%;
+}

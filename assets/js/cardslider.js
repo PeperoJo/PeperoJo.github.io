@@ -29,6 +29,7 @@ $(document).ready(cardSliderFormat());
 $(window).resize(cardSliderFormat());
 
 
+
 const buttonRight = document.getElementById('slideRight');
 const buttonLeft = document.getElementById('slideLeft');
 

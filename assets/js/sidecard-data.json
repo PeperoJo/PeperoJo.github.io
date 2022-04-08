@@ -1,6 +1,19 @@
 {
   "projects": [{
     "show": true,
+    "projectTitle": "UX Students",
+    "projectDescription": "Currently managing an online community of 1000+ members pursuing graduate level education in HCI/UX.",
+    "projectTags": "Community | Volunteer",
+    "projectImg": {
+      "src": "assets/img/projects/uxstudents.png",
+      "style": "height: 65%; padding-top: 20px;",
+      "bgcolor" : "#CACFC4"
+    },
+    "projectLink": "https://uxstudents.com",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  }, {
+    "show": true,
     "projectTitle": "Silence Speaks",
     "projectDescription": "Insight-driven awareness campaign that aims to bridge the gap between young-adult facing brands and Gen-Z consumers.",
     "projectTags": "UX Research, Design, Engineering",

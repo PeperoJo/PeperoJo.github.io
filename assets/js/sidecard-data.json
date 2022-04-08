@@ -1,6 +1,71 @@
 {
   "projects": [{
     "show": true,
+    "projectTitle": "Silence Speaks",
+    "projectDescription": "Insight-driven awareness campaign that aims to bridge the gap between young-adult facing brands and Gen-Z consumers.",
+    "projectTags": "UX Research, Design, Engineering",
+    "projectImg": {
+      "src": "assets/img/projects/silencespeaks.gif",
+      "style": "height: 65%; padding-top: 20px;",
+      "bgcolor" : "#CACFC4"
+    },
+    "projectLink": "https://josephhan.io/assets/projects/silencespeaks.pdf",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  }, {
+    "show": true,
+    "projectTitle": "Modular Camera",
+    "projectDescription": "Manual mode for the hardware. Smart camera that can be configured to the user's needs.",
+    "projectTags": "Industrial Design | Hardware",
+    "projectImg": {
+      "src": "assets/img/projects/modularcam.png",
+      "style": "height: 65%; padding-top: 20px;",
+      "bgcolor" : "#DCD5D5"
+    },
+    "projectLink": "https://josephhan.io/assets/projects/modularcam.pdf",
+    "projectContainersize": "6",
+    "projectMiscClasses": ""
+  },{
+    "show": true,
+    "projectTitle": "Cornell Tech",
+    "projectDescription": "Redesigned Social Tech Lab's website and worked closely with engineers on social good projects. Ask me about it!",
+    "projectTags": "WEB DESIGN | Machine Learning",
+    "projectImg": {
+      "src": "assets/img/projects/cornelltech.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://s.tech.cornell.edu/",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  }, {
+    "show": true,
+    "projectTitle": "Chick-fil-A",
+    "projectDescription": "Interactive help desk assistant tool powered by NLP to pull up suggested documents and display audio transcriptions.",
+    "projectTags": "NLP | CONVERSATION UI",
+    "projectImg": {
+      "src": "assets/img/projects/chickfila.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://josephhan.io/assets/projects/chickfila.pdf",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  }, {
+    "show": true,
+    "projectTitle": "Covidopoly",
+    "projectDescription": "Online game started by Googlers played more than 1 million times. Try it out!",
+    "projectTags": "GAME DESIGN | MOBILE",
+    "projectImg": {
+      "src": "assets/img/projects/covidopoly.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://josephhan.io/assets/projects/covidopoly.pdf",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  }, {
+    "show": true,
     "projectTitle": "Music Control Design",
     "projectDescription": "Redesigning conventional speaker controls to reduce the cumbersomeness and improve the user experience.",
     "projectTags": "UI | Industrial Design",
@@ -12,96 +77,5 @@
     "projectLink": "https://josephhan0.medium.com/redesigning-music-controls-b38e16387520",
     "projectContainersize": "6",
     "projectMiscClasses": "project-comingsoon2"
-  }, {
-    "show": true,
-    "projectTitle": "Robinhood Calendar",
-    "projectDescription": "Easy way to keep track of dividend payments and manage passive income. Hassle free.",
-    "projectTags": "Product Design",
-    "projectImg": {
-      "src": "assets/img/projects/robinhood1.png",
-      "style": "height: 65%; padding-top: 20px;",
-      "bgcolor" : "#D7DED3"
-    },
-    "projectLink": "",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": true,
-    "projectTitle": "Sme11",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "projectTags": "UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/sme11.png",
-      "style": "height: 50%;",
-      "bgcolor" : "#D7D3DE"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": true,
-    "projectTitle": "Thomson Reuters",
-    "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
-    "projectTags": "UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/thomsonreuters.png",
-      "style": "width: 55%",
-      "bgcolor" : "#F2F3F5"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-nda2"
-  }, {
-    "show": true,
-    "projectTitle": "Sme11",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "projectTags": "UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/sme11.png",
-      "style": "height: 50%;",
-      "bgcolor" : "#D7D3DE"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": true,
-    "projectTitle": "Thomson Reuters",
-    "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
-    "projectTags": "UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/thomsonreuters.png",
-      "style": "width: 55%",
-      "bgcolor" : "#F2F3F5"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-nda2"
-  }, {
-    "show": true,
-    "projectTitle": "Sme11",
-    "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "projectTags": "UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/sme11.png",
-      "style": "height: 50%;",
-      "bgcolor" : "#D7D3DE"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "6",
-    "projectMiscClasses": ""
-  }, {
-    "show": true,
-    "projectTitle": "Thomson Reuters",
-    "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
-    "projectTags": "UX Design",
-    "projectImg": {
-      "src": "assets/img/projects/thomsonreuters.png",
-      "style": "width: 55%",
-      "bgcolor" : "#F2F3F5"
-    },
-    "projectLink": "https://s.tech.cornell.edu",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-nda2"
   }]
 }

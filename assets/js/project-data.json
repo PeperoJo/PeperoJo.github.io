@@ -1,6 +1,7 @@
 {
   "projects": [{
     "show": true,
+    "status" : "",
     "projectTitle": "MoonRanger × NASA",
     "projectDescription": "Modular dashboard design for command officers to manage a robotic lunar rover. To be launched in 2023.",
     "projectTags": "Product Design | Dashboard | Aerospace",
@@ -14,6 +15,7 @@
     "projectMiscClasses": "project-comingsoon2"
   },  {
     "show": true,
+    "status" : "",
     "projectTitle": "Sme11",
     "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.",
     "projectTags": "UX Design | Hackathon | A11Y",
@@ -27,6 +29,7 @@
     "projectMiscClasses": ""
   }, {
     "show": true,
+    "status" : "",
     "projectTitle": "Robinhood Calendar",
     "projectDescription": "Easy way to keep track of dividend payments and manage passive income. Hassle free. Gain the insights you need to grow your dividend portfolio.",
     "projectTags": "Product Design | FinTech | Mobile",
@@ -40,6 +43,7 @@
     "projectMiscClasses": ""
   },{
     "show": true,
+    "status" : "projectLocked",
     "projectTitle": "Thomson Reuters",
     "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
     "projectTags": "UX Design | Web Design | Machine Learning",

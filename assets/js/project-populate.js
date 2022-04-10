@@ -28,7 +28,7 @@ function projectContainer(block) {
     <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
 
 
-      <div class="project2-img"
+      <div class="project2-img ${this.info.status}"
         style="
           position: relative;
           width: 100%;
@@ -105,7 +105,7 @@ function projectContainer(block) {
             </div>
 
           </div>
-          <div class="project2-img img-hover" id="moonranger" style="">
+          <div class="project2-img img-hover " id="moonranger" style="">
             <img src="${this.info.projectImg.src}"
             style="
               ${this.info.projectImg.style}

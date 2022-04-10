@@ -22,10 +22,16 @@ function projectContainer(block) {
 
   var onclickaction = "";
 
+  if (this.info.projectLink != ""){
+    onclickAction = `onclick="window.open('${this.info.projectLink}','mywindow');"`;
+  } else {
+    onclickAction = ``;
+  }
+
 
   this.output = `
   <div class="col-md-${this.info.projectContainersize} p-2">
-    <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" onclick="window.open('${this.info.projectLink}','mywindow');">
+    <div class="project2-container  proj-text-dark0 ${this.info.projectMiscClasses}" ${onclickAction}">
 
 
       <div class="project2-img ${this.info.status}"

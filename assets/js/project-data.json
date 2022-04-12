@@ -44,7 +44,7 @@
   },{
     "show": true,
     "status" : "projectLocked",
-    "projectTitle": "Thomson Reuters <i class='fa-light fa-lock' style='font-size: 12px; padding-left: 3px; vertical-align: middle;'></i> ",
+    "projectTitle": "Thomson Reuters <i class='fal fa-lock' style='font-size: 12px; padding-left: 3px; vertical-align: middle;'></i> ",
     "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
     "projectTags": "UX Design | Web Design | Machine Learning",
     "projectImg": {

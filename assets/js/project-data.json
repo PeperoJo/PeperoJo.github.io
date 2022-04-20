@@ -2,6 +2,20 @@
   "projects": [{
     "show": true,
     "status" : "",
+    "projectTitle": "Unigo",
+    "projectDescription": "Voice-Forward experience for disabled users using autonomous vehicle. Ongoing project sponsored by the US DOT Inclusive Design Challenge",
+    "projectTags": "Product Design | Voice UI | Mobile",
+    "projectImg": {
+      "src": "assets/img/projects/unigo.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://josephhan.notion.site/Unigo-Voice-Assistant-1be45fd343ee4044b892b894e76792ae",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  },{
+    "show": false,
+    "status" : "",
     "projectTitle": "MoonRanger × NASA",
     "projectDescription": "Modular dashboard design for command officers to manage a robotic lunar rover. To be launched in 2023.",
     "projectTags": "Product Design | Dashboard | Aerospace",

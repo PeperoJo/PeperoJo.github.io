@@ -2,6 +2,20 @@
   "projects": [{
     "show": true,
     "status" : "",
+    "projectTitle": "MoonRanger × NASA",
+    "projectDescription": "Modular dashboard design for command officers and operators to manage an autonomous robotic lunar rover. To be launched in 2023.",
+    "projectTags": "Product Design | Dashboard | Aerospace",
+    "projectImg": {
+      "src": "assets/img/projects/moonranger_final.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  },{
+    "show": true,
+    "status" : "",
     "projectTitle": "Unigo",
     "projectDescription": "Voice-forward experience for disabled users riding autonomous vehicle. Ongoing project sponsored by the US DOT Inclusive Design Challenge",
     "projectTags": "Product Design | Voice UI | Mobile",
@@ -11,20 +25,6 @@
       "bgcolor" : "#D5DADC"
     },
     "projectLink": "https://josephhan.notion.site/Unigo-Voice-Assistant-1be45fd343ee4044b892b894e76792ae",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-comingsoon2"
-  },{
-    "show": false,
-    "status" : "",
-    "projectTitle": "MoonRanger × NASA",
-    "projectDescription": "Modular dashboard design for command officers to manage a robotic lunar rover. To be launched in 2023.",
-    "projectTags": "Product Design | Dashboard | Aerospace",
-    "projectImg": {
-      "src": "assets/img/projects/moonranger2.png",
-      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
-      "bgcolor" : "#D5DADC"
-    },
-    "projectLink": "",
     "projectContainersize": "6",
     "projectMiscClasses": "project-comingsoon2"
   },  {

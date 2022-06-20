@@ -6,11 +6,11 @@
     "projectDescription": "Modular dashboard design for command officers and operators to manage an autonomous robotic lunar rover. To be launched in 2023.",
     "projectTags": "Product Design | Dashboard | Aerospace",
     "projectImg": {
-      "src": "assets/img/projects/moonranger_final.png",
+      "src": "assets/img/projects/moonranger3.png",
       "style": "width: 100%; margin: auto; padding-bottom: 20px;",
       "bgcolor" : "#D5DADC"
     },
-    "projectLink": "",
+    "projectLink": "https://josephhan.webflow.io/moonranger",
     "projectContainersize": "6",
     "projectMiscClasses": "project-comingsoon2"
   },{

@@ -24,7 +24,7 @@
       "style": "width: 55%",
       "bgcolor" : "#F2F3F5"
     },
-    "projectLink": "",
+    "projectLink": "https://josephhan.webflow.io/thomsonreuters",
     "projectContainersize": "6",
     "projectMiscClasses": "project-nda2"
   } ,{
@@ -41,7 +41,21 @@
     "projectLink": "https://josephhan.notion.site/Unigo-Voice-Assistant-1be45fd343ee4044b892b894e76792ae",
     "projectContainersize": "6",
     "projectMiscClasses": "project-comingsoon2"
-  },  {
+  }, {
+    "show": true,
+    "status" : "",
+    "projectTitle": "PPG (Coming Soon)",
+    "projectDescription": "NLP-powered audio recording tool to help painting businesses organize and recollect job estimations more quickly with less mistakes.",
+    "projectTags": "Product Design | Voice UI | Mobile",
+    "projectImg": {
+      "src": "assets/img/projects/ppg.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://josephhan.webflow.io/ppg",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  }, {
     "show": true,
     "status" : "",
     "projectTitle": "Robinhood Calendar",

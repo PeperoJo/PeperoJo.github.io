@@ -45,7 +45,7 @@
     "show": true,
     "status" : "",
     "projectTitle": "PPG (Coming Soon)",
-    "projectDescription": "NLP-powered audio recording tool to help painting businesses organize and recollect job estimations more quickly with less mistakes.",
+    "projectDescription": "NLP-powered audio recording/tagging tool to help painting businesses organize and recollect job estimations more quickly with less mistakes.",
     "projectTags": "Product Design | Voice UI | Mobile",
     "projectImg": {
       "src": "assets/img/projects/ppg.png",

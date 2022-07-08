@@ -15,6 +15,20 @@
     "projectMiscClasses": "project-comingsoon2"
   }, {
     "show": true,
+    "status" : "",
+    "projectTitle": "Unigo: Voice Assistant",
+    "projectDescription": "Voice-forward experience for disabled users riding autonomous vehicle. Ongoing project sponsored by the US DOT Inclusive Design Challenge",
+    "projectTags": "Product Design | Voice UI | Mobile",
+    "projectImg": {
+      "src": "assets/img/projects/unigo.png",
+      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
+      "bgcolor" : "#D5DADC"
+    },
+    "projectLink": "https://josephhan.notion.site/Unigo-Voice-Assistant-1be45fd343ee4044b892b894e76792ae",
+    "projectContainersize": "6",
+    "projectMiscClasses": "project-comingsoon2"
+  }, {
+    "show": true,
     "status" : "projectLocked",
     "projectTitle": "Thomson Reuters <i class='fas fa-lock' style='font-size: 12px; padding-left: 3px; vertical-align: middle;'></i> ",
     "projectDescription": "Explainability interface for a web application that uses a legal classification model. Under non-disclosure agreement.",
@@ -28,20 +42,6 @@
     "projectContainersize": "6",
     "projectMiscClasses": "project-nda2"
   } ,{
-    "show": true,
-    "status" : "",
-    "projectTitle": "Unigo",
-    "projectDescription": "Voice-forward experience for disabled users riding autonomous vehicle. Ongoing project sponsored by the US DOT Inclusive Design Challenge",
-    "projectTags": "Product Design | Voice UI | Mobile",
-    "projectImg": {
-      "src": "assets/img/projects/unigo.png",
-      "style": "width: 100%; margin: auto; padding-bottom: 20px;",
-      "bgcolor" : "#D5DADC"
-    },
-    "projectLink": "https://josephhan.notion.site/Unigo-Voice-Assistant-1be45fd343ee4044b892b894e76792ae",
-    "projectContainersize": "6",
-    "projectMiscClasses": "project-comingsoon2"
-  }, {
     "show": true,
     "status" : "",
     "projectTitle": "PPG (Coming Soon)",

@@ -2,7 +2,7 @@
   "projects": [{
     "show": true,
     "status" : "",
-    "projectTitle": "Chronosphere Traffic Shaping API",
+    "projectTitle": "Chronosphere - Traffic Shaping API",
     "projectDescription": "Streamlined API experience to replace confusing rules configurations. (Coming Soon) (Presentation Available)",
     "projectTags": "Product Design | Observability | API",
     "projectImg": {
@@ -16,8 +16,8 @@
   }, {
     "show": true,
     "status" : "",
-    "projectTitle": "Chronosphere Traffic Shaping Dashboard",
-    "projectDescription": "Consolidated dashboard for traffic shaping actions. Helps users manage their actions and monitor their performance and license usage. (Coming Soon) (Presentation Available)",
+    "projectTitle": "Chronosphere - Traffic Shaping Dashboard",
+    "projectDescription": "Consolidated dashboard for traffic shaping actions. Helps users manage their actions and monitor their performance and license usage.",
     "projectTags": "Product Design | Observability | Dashboard",
     "projectImg": {
       "src": "assets/img/projects/chrono-dash.png",

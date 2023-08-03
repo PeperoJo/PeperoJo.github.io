@@ -3,7 +3,7 @@
     "show": true,
     "status" : "",
     "projectTitle": "Chronosphere - Traffic Shaping API",
-    "projectDescription": "Coming soon. Streamlined API experience to replace confusing rules configurations. (Presentation Available)",
+    "projectDescription": "Coming soon. Streamlined data traffic shaping API experience to replace confusing rules configurations. (Presentation Available)",
     "projectTags": "Product Design | Observability | API",
     "projectImg": {
       "src": "assets/img/projects/chrono-api.png",

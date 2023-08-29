@@ -4,7 +4,7 @@
     "status" : "",
     "projectTitle": "Chronosphere - Traffic Shaping Actions",
     "projectDescription": "Coming soon. Streamlined data traffic shaping API and dashboard experience to replace confusing legacy rules configurations.",
-    "projectTags": "Product Design | Observability | API",
+    "projectTags": "Product Design | Observability | API | Dashboard",
     "projectImg": {
       "src": "assets/img/projects/chrono1.png",
       "style": "width: 100%; margin: auto; padding-bottom: 20px;",

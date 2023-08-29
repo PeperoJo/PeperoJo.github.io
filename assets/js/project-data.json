@@ -2,19 +2,19 @@
   "projects": [{
     "show": true,
     "status" : "",
-    "projectTitle": "Chronosphere - Traffic Shaping API",
-    "projectDescription": "Coming soon. Streamlined data traffic shaping API experience to replace confusing rules configurations. (Presentation Available)",
+    "projectTitle": "Chronosphere - Traffic Shaping Actions",
+    "projectDescription": "Coming soon. Streamlined data traffic shaping experience to replace confusing legacy rules configurations.",
     "projectTags": "Product Design | Observability | API",
     "projectImg": {
-      "src": "assets/img/projects/chrono-api.png",
+      "src": "assets/img/projects/chrono1.png",
       "style": "width: 100%; margin: auto; padding-bottom: 20px;",
       "bgcolor" : "#D5DADC"
     },
     "projectLink": "https://josephhan.io",
     "projectContainersize": "6",
-    "projectMiscClasses": "project-nda2"
+    "projectMiscClasses": "project-comingsoon2"
   }, {
-    "show": true,
+    "show": false,
     "status" : "",
     "projectTitle": "Chronosphere - Traffic Shaping Dashboard",
     "projectDescription": "Consolidated dashboard for traffic shaping actions. Helps users manage their actions and monitor their performance and license usage.",
